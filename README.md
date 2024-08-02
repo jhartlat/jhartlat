@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am actively learning Git and GitHub to manage my projects.
+
+
 <!--
 **jhartlat/jhartlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
