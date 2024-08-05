@@ -1,6 +1,8 @@
-## Hi there 👋
+## About Me 
 
-I am actively learning Git and GitHub to manage my projects.
+I have a background in Quality Assurance and Technical Support, and I enjoy learning and exploring different aspects of software development, especially backend development. Right now, I’m focused on mastering GitHub and improving my transaction manager application. I love working with Python and C#. Feel free to connect with me or browse my projects. Thanks for stopping by!
+
+
 
 
 <!--
